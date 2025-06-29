@@ -1,8 +1,8 @@
 
 					
-     				Hey there, Shouvik this side!
+     			Hey there, Shouvik this side!
 		
- 	✨About Me
+ 				✨About Me
 
 👋 Hi, I’m Shouvikbanerjee.
 
@@ -15,6 +15,7 @@
 👯 I’m looking to collaborate with open source enthusiasts and developers.
 
 🥅 Goals: Learn Fullstack Development And strength DSA.
+
 <!---
 Shouvikbanerjee/Shouvikbanerjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
