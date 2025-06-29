@@ -4,7 +4,7 @@
 		
  				          ✨About Me
 
-👋 Hi, I’m Shouvikbanerjee.
+👋 Hi, I’m Shouvik Banerjee.
 
 🎓 I'm a BCA Student and PHP Developer.
 
