@@ -2,7 +2,7 @@
 					
      			**Hey there, Shouvik this side!**
 		
- 				     ✨About Me
+ 				          ✨About Me
 
 👋 Hi, I’m Shouvikbanerjee.
 
