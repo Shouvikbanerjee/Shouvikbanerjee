@@ -60,7 +60,7 @@
 shouvik-banerjee-591b712a1
 )
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge\&logo=web)](https://github.com/Shouvikbanerjee/Shouvik-s-Portfolio.git)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge\&logo=web)](https://shouvikbanerjee.github.io/Shouvik-s-Portfolio/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/Shouvikbanerjee)
 
