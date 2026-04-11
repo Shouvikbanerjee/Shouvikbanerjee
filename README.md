@@ -56,9 +56,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/
-shouvik-banerjee-591b712a1
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shouvik-banerjee-591b712a1/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge\&logo=web)](https://shouvikbanerjee.github.io/Shouvik-s-Portfolio/)
 
