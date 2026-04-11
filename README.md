@@ -7,7 +7,7 @@
 ## ✨ About Me
 
 * 👨‍💻 Passionate about building modern web applications
-* 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
+* 🎓 Graduated **Bachelor of Computer Applications (BCA)**
 * 🌱 Currently learning **Full Stack Development**
 * 🔭 Working on **Web Development & Data Structures (DSA)**
 * 🤝 Open to collaboration on **Open Source Projects**
@@ -53,15 +53,6 @@
 * 🔐 Secure admin panel with authentication
 * 📊 Dashboard with analytics
 * 🌐 **Live:** http://emplify.unaux.com
-
----
-
-### 🔹 Student Management System
-
-* 🎓 Manage students, attendance, and records
-* 📚 Department & course management
-* 📱 Fully responsive design
-* ⚡ Built using PHP, MySQL, Bootstrap
 
 ---
 
