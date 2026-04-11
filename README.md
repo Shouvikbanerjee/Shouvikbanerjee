@@ -7,11 +7,11 @@
 ## ✨ About Me
 
 * 👨‍💻 Passionate about building modern web applications
-* 🎓 Graduated **Bachelor of Computer Applications (BCA)**
+* 🎓 Completed Bachelor of Computer Applications (BCA)
 * 🌱 Currently learning **Full Stack Development**
-* 🔭 Working on **Web Development & Data Structures (DSA)**
+* 🔭 Currently working on Web Development, Data Structures (DSA), and SEO optimization
 * 🤝 Open to collaboration on **Open Source Projects**
-* 🎯 Goal: Become a skilled **Full Stack Developer & DSA Expert**
+* 🎯 Goal: Become a skilled **Full Stack Developer & SEO Expert**
 
 ---
 
@@ -33,17 +33,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Shouvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shouvikbanerjee\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shouvikbanerjee\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shouvikbanerjee\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🚀 Projects Showcase
 
@@ -56,7 +45,7 @@
 
 ---
 
-### 🔹 Restaurant Management System
+### 🔹 FoodExpress - Restaurant Management System
 
 * 🍔 Manage menu, orders, and customers
 * 📦 Order tracking & status updates
@@ -67,9 +56,11 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/
+shouvik-banerjee-591b712a1
+)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge\&logo=web)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge\&logo=web)](https://github.com/Shouvikbanerjee/Shouvik-s-Portfolio.git)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/Shouvikbanerjee)
 
